@@ -1,0 +1,1 @@
+{"ast":null,"code":"export default {\n  apiEndpoint: 'https://api.hasasecret.com',\n  socketEndpoint: 'https://api.hasasecret.com/',\n  debug: false,\n  maxVideoBitrateKbps: 900\n};","map":null,"metadata":{},"sourceType":"module"}

@@ -1,0 +1,1 @@
+{"ast":null,"code":"export default {\n  apiEndpoint: 'http://localhost:9000',\n  socketEndpoint: 'http://localhost:9000',\n  debug: false,\n  maxVideoBitrateKbps: 900\n};","map":null,"metadata":{},"sourceType":"module"}
